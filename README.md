@@ -45,9 +45,6 @@ The group selector applies the same style to multiple selectors at once.
 
 h1, h2, h3 { color: green; }
 
-
-This colors all <h1>, <h2>, and <h3> headings green, reducing repetitive code.
-
 Conclusion
 
 CSS selectors make web design efficient by targeting elements in various ways—whether by type, ID, class, universally, or in groups. Understanding these selectors is essential for clean, structured, and maintainable web styling.
